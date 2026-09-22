@@ -19,10 +19,8 @@
 
 | Plateforme | Lien |
 |---|---|
-| 🪟 **Windows** | [Télécharger l'installateur](https://github.com/PapyNovator/xue2ai/releases/latest/download/Xue2AI.Setup.1.0.0.exe) |
+| 🪟 **Windows** | *(à venir)* |
 | 🐧 **Linux** | *(à venir)* |
-
-> 💡 Ce lien pointe toujours vers la **dernière version**.
 
 ---
 
