@@ -1,3 +1,5 @@
+[Français](README_fr.md) · **English**
+
 # Xue2AI
 
 **Learn Mandarin Chinese with an AI that adapts to your level, your memory and your mistakes.**
