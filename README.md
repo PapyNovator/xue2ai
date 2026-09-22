@@ -39,6 +39,14 @@ Open an [issue](https://github.com/PapyNovator/xue2ai/issues).
 
 ---
 
+## ☕ Support
+
+If you find Xue2AI useful, consider [buying me a coffee](https://buymeacoffee.com/papynovator) to support its development.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/papynovator)
+
+---
+
 ## 📜 License
 
 Proprietary — all rights reserved.
