@@ -19,10 +19,10 @@
 
 | Platform | Link |
 |---|---|
-| 🪟 **Windows** | [Download the installer](https://github.com/PapyNovator/xue2ai/releases/latest/download/Xue2AI%20Setup%201.0.0.exe) |
+| 🪟 **Windows** | [Download the installer](https://github.com/PapyNovator/xue2ai/releases/latest/download/Xue2AI.Setup.1.0.0.exe) |
 | 🐧 **Linux** | *(coming soon)* |
 
-> 💡 These links always point to the **latest version**.
+> 💡 This link always points to the **latest version**.
 
 ---
 
