@@ -1,3 +1,5 @@
+**Français** · [English](README.md)
+
 # Xue2AI
 
 **Apprends le chinois mandarin avec une IA qui s'adapte à ton niveau, ta mémoire et tes erreurs.**
